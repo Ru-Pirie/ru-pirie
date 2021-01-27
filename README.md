@@ -30,4 +30,4 @@ These are some of my future goals and things which I want to do!
 
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ru-pirie&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru-pirie&theme=dark&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru-pirie&theme=dark&layout=compact&langs_count=5)
