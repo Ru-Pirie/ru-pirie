@@ -10,9 +10,11 @@ Heyo, my name is Rubens i'm a computer science and engernering student currently
 ## My Future
 These are some of my future goals and things which I want to do!
 - [ ] Learn C
+- [x] Learn JavaScript
 - [ ] Learn Kotlin
-- [ ] Get started on a proper project
-- [ ] Setup my own website with protfolio and stuff
+- [x] Get started on a proper project
+- [ ] Finish that project...
+- [x] Setup my own [website](https://ru-pirie.com) with protfolio and stuff 
 
 ## Languages I Know
  - The basics of Python
@@ -27,6 +29,7 @@ These are some of my future goals and things which I want to do!
 - Twitter - [@Ru_Pirie](https://twitter.com/Ru_Pirie)
 - Discord - iPirie#8558
 - Email - rubens.pirie@gmail.com
+- Website - [ru-pirie.com](https://ru-pirie.com)
 
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ru-pirie&count_private=true&show_icons=true&theme=dark)
