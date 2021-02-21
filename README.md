@@ -23,7 +23,7 @@ These are some of my future goals and things which I want to do!
 ## My Projects
 1. The first real widly used project that I have worked on was a noticiation schedular to help some friends out during the pandemic. The code is in no way nice or clean it was just something which I wrote in a day.
 2. The next thing that I worked on was a very basic app which I wish to expand apon in the near future! This was writen in kotlin and was nice to streach my legs and try out a different language.
-> FYI: Quite allot of my stuff is closed-source due to being realy messy and quick little projects
+> FYI: Quite allot of my stuff is closed-source due to being unclean and quick little projects and some due to the fact that they are custom projects and the owners do not wish for the source code to become public
 
 ## Contact Me
 - Twitter - [@Ru_Pirie](https://twitter.com/Ru_Pirie)
