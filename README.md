@@ -3,7 +3,7 @@
 Heyo, my name is Rubens i'm a computer science and engernering student currently studying at secondary school in my final year. I wish to go onto the Aerospace sector or something to do with that sorta thing. Recently I realy got into programming and learnt JavaScript which im pretty happy with now and have now decided to start learning C due to that being the most common language used in the mission crytical area.
 
 ### Some facts about me:
- 1. I'v been programming seriously for about 6 months
+ 1. I'v been programming seriously for about one year!
  2. I love to meet new people
  3. I love a good challenge and am open to people aproaching me with stuff they need doing
 
@@ -11,14 +11,15 @@ Heyo, my name is Rubens i'm a computer science and engernering student currently
 These are some of my future goals and things which I want to do!
 - [ ] Learn C
 - [x] Learn JavaScript
-- [ ] Learn Kotlin
+- [x] Learn Basic Kotlin
 - [x] Get started on a proper project
 - [ ] Finish that project...
-- [x] Setup my own [website](https://ru-pirie.com) with protfolio and stuff 
+- [x] Setup my own [website](https://ru-pirie.com) with protfolio and stuff
+- [ ] Finish My Website 
 
 ## Languages I Know
  - The basics of Python
- - Proficient in JavaScript to a level I could teach the basics
+ - Proficient in JavaScript to a level I could teach the basics to intermidiate
 
 ## My Projects
 1. The first real widly used project that I have worked on was a noticiation schedular to help some friends out during the pandemic. The code is in no way nice or clean it was just something which I wrote in a day.
