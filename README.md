@@ -1,11 +1,12 @@
 # Ru-Pirie
+
 ## About Me
-Heyo, my name is Rubens i'm a computer science and engernering student currently studying at secondary school in my final year. I wish to go onto the Aerospace sector or something to do with that sorta thing. Recently I realy got into programming and learnt JavaScript which im pretty happy with now and have now decided to start learning C due to that being the most common language used in the mission crytical area.
+Heyo, my name is Rubens. I'm a computer science and engineering student currently studying at secondary school in my final year. I wish to go onto the aerospace sector or something within the field. Recently I really got into programming and learnt JavaScript which I'm pretty happy with. Recently I have decided to start learning C, due to it being the most common language used in the mission critical area.
 
 ### Some facts about me:
- 1. I'v been programming seriously for about one year!
- 2. I love to meet new people
- 3. I love a good challenge and am open to people aproaching me with stuff they need doing
+1. I've been programming seriously for about one year!
+2. I love meeting new people
+3. I love a good challenge and am open to people approaching me with stuff they need doing
 
 ## My Future
 These are some of my future goals and things which I want to do!
@@ -14,17 +15,17 @@ These are some of my future goals and things which I want to do!
 - [x] Learn Basic Kotlin
 - [x] Get started on a proper project
 - [ ] Finish that project...
-- [x] Setup my own [website](https://ru-pirie.com) with protfolio and stuff
+- [x] Setup my own [website](https://ru-pirie.com) with portfolio and stuff
 - [ ] Finish My Website 
 
 ## Languages I Know
  - The basics of Python
- - Proficient in JavaScript to a level I could teach the basics to intermidiate
+ - Proficient in JavaScript to a level I could teach the basics to intermediate
 
 ## My Projects
-1. The first real widly used project that I have worked on was a noticiation schedular to help some friends out during the pandemic. The code is in no way nice or clean it was just something which I wrote in a day.
-2. The next thing that I worked on was a very basic app which I wish to expand apon in the near future! This was writen in kotlin and was nice to streach my legs and try out a different language.
-> FYI: Quite allot of my stuff is closed-source due to being unclean and quick little projects and some due to the fact that they are custom projects and the owners do not wish for the source code to become public
+1. The first real widely used project that I have worked on was a bot to schedule notifications to help some friends out during the pandemic. The code is in no way nice or clean; it was just something which I wrote in a day.
+2. The next thing that I worked on was a very basic app which I wish to expand upon in the near future! This was written in kotlin and was nice to stretch my legs and try out a different language.
+> FYI: Quite a lot of my stuff is closed-source due to them being unclean and quick little projects and some due to the fact that they are custom projects and the owners do not wish for the source code to become public
 
 ## Contact Me
 - Twitter - [@Ru_Pirie](https://twitter.com/Ru_Pirie)
