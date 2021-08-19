@@ -4,7 +4,7 @@
 Heyo, my name is Rubens. I'm a computer science and engineering student currently studying at secondary school in my final year. I wish to go onto the aerospace sector or something within the field. Recently I really got into programming and learnt JavaScript which I'm pretty happy with. Recently I have decided to start learning C, due to it being the most common language used in the mission critical area.
 
 ### Some facts about me:
-1. I've been programming seriously for about one year!
+1. I've been programming seriously for about two and a half years!
 2. I love meeting new people
 3. I love a good challenge and am open to people approaching me with stuff they need doing
 
