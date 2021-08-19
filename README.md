@@ -10,7 +10,9 @@ Heyo, my name is Rubens. I'm a computer science and engineering student currentl
 
 ## My Future
 These are some of my future goals and things which I want to do!
-- [ ] Learn C
+- [ ] Learn C#
+- [x] Get better with Sapper
+- [ ] Learn some JAVA!
 - [x] Learn JavaScript
 - [x] Learn Basic Kotlin
 - [x] Get started on a proper project
@@ -19,8 +21,11 @@ These are some of my future goals and things which I want to do!
 - [ ] Finish My Website 
 
 ## Languages I Know
- - The basics of Python
- - Proficient in JavaScript to a level I could teach the basics to intermediate
+ - Proficient in python I would like to think
+ - Advanced in JavaScript to a level I could teach it to another
+ - Learning C# for college
+ - Sapper, i'm about 50% way through of all there is to know
+ - HTML, the basics
 
 ## My Projects
 1. The first real widely used project that I have worked on was a bot to schedule notifications to help some friends out during the pandemic. The code is in no way nice or clean; it was just something which I wrote in a day.
