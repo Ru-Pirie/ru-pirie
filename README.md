@@ -12,15 +12,13 @@ Heyo, my name is Rubens. I'm a computer science and engineering student currentl
 
 ## My Future
 These are some of my future goals and things which I want to do!
-- [ ] Learn C#
-- [x] Get better with Sapper
-- [ ] Learn some JAVA!
+- [x] Learn C#
+- [x] Get better with Web Tech
 - [x] Learn JavaScript
 - [x] Learn Basic Kotlin
 - [x] Get started on a proper project
 - [ ] Finish that project...
 - [x] Setup my own [website](https://ru-pirie.com) with portfolio and stuff
-- [ ] Finish My Website 
 
 ## Languages I Know
  - Proficient in python I would like to think
