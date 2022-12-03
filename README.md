@@ -1,7 +1,7 @@
 # Ru-Pirie
 
 ## About Me
-Heyo, my name is Rubens. I'm a computer science and engineering student currently studying at college in my first year. I wish to go onto the aerospace sector or something within the field. Recently I really got into programming and learnt JavaScript which I'm pretty happy with. Recently I have decided to start learning C, due to it being the most common language used in the mission critical area. Can't wait to go into college and crack down on those pesky life skills
+Heyo, my name is Rubens. I'm a computer science and engineering student currently studying at college in my second year. I wish to go onto the aerospace sector or something within the field. Recently I really got into programming and learnt JavaScript which I'm pretty happy with. Recently I have decided to start learning C, due to it being the most common language used in the mission critical area. Can't wait to go into college and crack down on those pesky life skills
 
 ### Some facts about me:
 1. I've been programming seriously for about three and a bit years!
