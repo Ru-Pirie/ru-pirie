@@ -21,12 +21,10 @@ These are some of my future goals and things which I want to do!
 - [x] Setup my own [website](https://ru-pirie.com) with portfolio and stuff
 
 ## Languages I Know
- - Proficient in python I would like to think
+ - Proficient in c#
+ - Proficient in Python
  - Advanced in JavaScript to a level I could teach it to another
  - Beginner TS
- - Beginner Kotlin
- - Learning C# for college
- - Sapper, I’m about 50% way through of all there is to know
  - HTML, the basics
  - Good 'ol SQL
 
