@@ -1,7 +1,9 @@
 # Ru-Pirie
 
 ## About Me
-Hi there! My name is Rubens. I'm a engineering student currently on summer leave while awaiting my a level results. Feel free to drop me a line!
+Hi there! My name is Rubens. I'm an electrical and electronic engineering student at The University of Southampton. I have had approx. 4 years of programming experience at a high level and have completed long projects in C and C#. I am open to commissions and challenges!
+
+I love a good bit of hardware design but also enjoy some programming from time to time.
 
 ## Contact Me
 - Twitter - [@Ru_Pirie](https://twitter.com/Ru_Pirie)
