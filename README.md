@@ -6,7 +6,6 @@ Hi there! My name is Rubens. I'm an electrical and electronic engineering studen
 I love a good bit of hardware design but also enjoy some programming from time to time.
 
 ## Contact Me
-- Twitter - [@Ru_Pirie](https://twitter.com/Ru_Pirie)
 - Discord - ipirie (iPirie#8558)
 - Email - contact@ru-pirie.com
 - Website - [ru-pirie.com](https://ru-pirie.com)
