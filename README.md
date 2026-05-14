@@ -1,7 +1,7 @@
 # Ru-Pirie
 
 ## About Me
-Hi there! My name is Rubens. I'm an electrical and electronic engineering student at The University of Southampton. I 
+Hi there! My name is Rubens. I'm an Electrical and Electronic Engineering student at The University of Southampton.
 
 I love a good bit of hardware design but also enjoy some programming from time to time.
 
